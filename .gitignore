@@ -10,6 +10,7 @@ venv.bak/
 # Django
 db.sqlite3
 __pycache__
+__pycachce__/*
 
 # Security
 config.py
